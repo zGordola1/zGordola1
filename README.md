@@ -8,7 +8,9 @@ Sou o Gordola
 
 -Sou Formado Em Informática Avançada HTML5 CSS3
 
--Estou Me Organizando Para Estudar A linguagem C#
+-Estou Estudando A linguagem Python
+
+-I'm Learning Networks...
 
 -Futuro DEV
 
