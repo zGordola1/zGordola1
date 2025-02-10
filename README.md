@@ -2,7 +2,7 @@
 
 
 
-Sou o Gordola
+Sou o Daniel
 
 -Estou Fazendo Curso de English 🇺🇸
 
@@ -10,9 +10,9 @@ Sou o Gordola
 
 -Estou Estudando A linguagem Python
 
--I'm Learning Networks...
+-I'm Learning CyberSecurity...
 
--Futuro DEV
+-Futuro Pentester
 
 -Solucionar problemas Com A Programação 👤
 
