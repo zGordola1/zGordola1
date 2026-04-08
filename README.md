@@ -6,7 +6,7 @@ Sou o Daniel
 
 -Estou Fazendo Curso de English 🇺🇸
 
--Sou Formado Em Informática Avançada HTML5 CSS3
+-Sou Formado Em Informática Avançada
 
 -Estou Estudando A linguagem Python
 
