@@ -1,9 +1,9 @@
 <div align="center">
 
 # Olá, eu sou Daniel Lopes 👋
-### 🛡️ Cybersecurity & AppSec | 🐍 Python Developer | 🌐 Network Defense
+### 🛡️ Cybersecurity & AppSec | 🐳 Docker & Homelab | 🐍 Python Developer | 🌐 Network Defense
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Python+Async+%26+Automation;Defesa+de+Redes+%26+Infraestrutura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Docker+%26+Infraestrutura+Self-Hosted;Python+Async+%26+Automation;Defesa+de+Redes+%26+Seguran%C3%A7a+de+Servidores)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,10 +17,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ensino Superior em Cibersegurança no SENAC** e desenvolvedor focado em **Segurança em Aplicações Web (AppSec)**, **Defesa de Redes** e **Automação de Ferramentas com Python**.
+Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor e entusiasta de infraestrutura focado em **Segurança em Aplicações Web (AppSec)**, **Containerização com Docker**, **Defesa de Redes** e **Automação em Python**.
 
 - 🎓 **Formação Acadêmica:** Graduando em **Cibersegurança** — **SENAC SP**.
-- 🎯 **Foco de Atuação:** Análise de Vulnerabilidades Web (OWASP Top 10), Interpretação de Tráfego de Redes e Engenharia de Automações Resilientes.
+- 🎯 **Foco de Atuação:** Segurança de Aplicações Web (OWASP Top 10), Defesa de Perímetro, Containerização e Automações Resilientes.
+- 🏠 **Homelab & Servidores:** Mantenho servidor próprio com **Docker** rodando instâncias de segurança de rede (DNS Sinkhole / AdBlock), bancos de dados (**MySQL**) e microsserviços.
 - 🔬 **Prática e Laboratórios:** Ativo em plataformas práticas de segurança como **TryHackMe** e **Universidade Hacker**.
 - 🛠️ **Desenvolvimento:** Criação de scripts assíncronos de alta performance, manipulação de sockets TCP e integração de APIs.
 - 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico.
@@ -37,9 +38,22 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC** e desenvolvedor
 ![AppSec](https://img.shields.io/badge/AppSec-API%20Security%20%26%20Access%20Control-blue?style=flat-square)
 ![Cryptography](https://img.shields.io/badge/Criptografia-Hashes%20%7C%20Cifras%20%7C%20TLS-success?style=flat-square)
 
-- **Vulnerabilidades Web:** Identificação e análise de SSRF, IDOR, File Inclusion (LFI/RFI), XXE e falhas de controle de acesso.
+- **Vulnerabilidades Web:** Identificação e mitigação de SSRF, IDOR, File Inclusion (LFI/RFI), XXE e falhas de autenticação/autorização.
 - **Negação de Serviço na Camada de Aplicação (L7):** Testes e defesas para ataques *Low and Slow* (`slowhttptest`, `hping2`, timeouts agressivos, WAF e rate-limiting).
 - **Sistemas Ciberfísicos (CPS/IoT):** Análise de integridade de sensores e ataques *False Data Injection (FDI)*.
+
+### 🐳 DevOps, Containers & Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Security-Firewalls%20%7C%20WAF-red?style=flat-square)
+![Protocols](https://img.shields.io/badge/Protocols-TCP%2FIP%20%7C%20TLS%20%7C%20DNS-blue?style=flat-square)
+
+- **Docker & Containerização:** Criação e gerenciamento de containers em servidores dedicados, persistência de dados em volumes, redes internas de containers e orquestração básica.
+- **Bancos de Dados em Container:** Instalação, gerenciamento e consultas em instâncias **MySQL**.
+- **Segurança de Rede & Self-Hosting:** Implementação de DNS AdBlock / Sinkhole em servidor próprio para filtragem de telemetria e tráfego malicioso em toda a rede.
+- **Defesa & Redes:** Firewalls, regras de roteamento, conceitos de infraestrutura Cisco e balanceadores de carga (*Load Balancers*).
 
 ### 🐍 Linguagens & Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,21 +61,10 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC** e desenvolvedor
 ![Assembly](https://img.shields.io/badge/Assembly-x86-6E4C13?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Databases-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - **Python 3:** Programação assíncrona (`asyncio`, `aiohttp`), Sockets TCP/IP (`socket`), tratamento robusto de erros (`try/except/finally`, Result Pattern), serialização JSON e automação de sistema operacional (`os`).
 - **Engenharia de Baixo Nível:** Instruções e registradores Assembly x86, Organização e Arquitetura de Computadores.
-- **Shell Scripting:** Automação de tarefas e rotinas em ambiente Linux.
-
-### 🌐 Redes & Infraestrutura
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Firewall](https://img.shields.io/badge/Security-Firewalls%20%7C%20WAF-red?style=flat-square)
-![Protocols](https://img.shields.io/badge/Protocols-TCP%2FIP%20%7C%20TLS%20%7C%20HTTPS%20%7C%20SSH%20%7C%20DNS-blue?style=flat-square)
-
-- **Defesa de Perímetro:** Firewalls, regras de roteamento, conceitos de infraestrutura Cisco e balanceamento de carga (*Load Balancers*).
-- **Análise de Tráfego:** Inspeção de pacotes (TCP, UDP, ICMP), detecção de tráfego anômalo e auditoria de sistemas de informação.
-- **Sistemas Operacionais:** Administração de Sistemas Linux (Arch Linux, Debian), permissões POSIX, processos e daemons de rede.
+- **Shell Scripting:** Automação de tarefas, scripts de manutenção e rotinas em ambiente Linux.
 
 ---
 
@@ -79,9 +82,9 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC** e desenvolvedor
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🛡️ Laboratórios & Ferramental de Segurança</b></h3>
+      <h3 align="center"><b>🛡️ Laboratórios, Docker & Ferramentas</b></h3>
       <p align="center">
-        Scripts para simulação de ataques L7, análise de tráfego de rede, geradores de payloads para testes de penetração e estudos práticos documentados de vulnerabilidades OWASP.
+        Infraestrutura homelab com containers Docker (MySQL, DNS AdBlock), scripts para simulação de ataques L7, análise de pacotes de rede e estudos práticos documentados de OWASP.
       </p>
       <p align="center">
         <a href="https://github.com/zGordola1"><b>Explorar Projetos →</b></a>
