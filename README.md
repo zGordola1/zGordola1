@@ -3,7 +3,7 @@
 # Olá, eu sou Daniel Lopes 👋
 ### 🛡️ Cybersecurity & AppSec | 🐍 Python Developer | 🌐 Network Defense
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+AppSec;Python+Async+%26+Automation;Defesa+de+Redes+%26+Infraestrutura;Entusiasta+de+Seguran%C3%A7a+Ofensiva)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Python+Async+%26+Automation;Defesa+de+Redes+%26+Infraestrutura)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,8 +17,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um estudante e profissional em formação na área de **Segurança da Informação (Cybersecurity)** e **Desenvolvimento de Software**. Tenho forte interesse em **Segurança em Aplicações Web (AppSec)**, **Defesa de Redes** e **Automação de Ferramentas em Python**.
+Sou estudante de **Ensino Superior em Cibersegurança no SENAC** e desenvolvedor focado em **Segurança em Aplicações Web (AppSec)**, **Defesa de Redes** e **Automação de Ferramentas com Python**.
 
+- 🎓 **Formação Acadêmica:** Graduando em **Cibersegurança** — **SENAC SP**.
 - 🎯 **Foco de Atuação:** Análise de Vulnerabilidades Web (OWASP Top 10), Interpretação de Tráfego de Redes e Engenharia de Automações Resilientes.
 - 🔬 **Prática e Laboratórios:** Ativo em plataformas práticas de segurança como **TryHackMe** e **Universidade Hacker**.
 - 🛠️ **Desenvolvimento:** Criação de scripts assíncronos de alta performance, manipulação de sockets TCP e integração de APIs.
@@ -29,6 +30,7 @@ Sou um estudante e profissional em formação na área de **Segurança da Inform
 ## 🛠️ Stack Técnica & Competências
 
 ### 🛡️ Segurança da Informação & AppSec
+![SENAC](https://img.shields.io/badge/SENAC-Cibersegurança-005696?style=flat-square&logo=senac&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?style=flat-square&logo=owasp)
 ![SSRF](https://img.shields.io/badge/Vulnerability-SSRF%20%7C%20IDOR%20%7C%20LFI%2FRFI-red?style=flat-square)
 ![DoS](https://img.shields.io/badge/L7%20DoS-Slowloris%20%7C%20RUDY-orange?style=flat-square)
