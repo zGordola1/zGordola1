@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Nielz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zGordola1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Nielz-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zGordola)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Nielz-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nielz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 </div>
@@ -21,7 +21,7 @@
 Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor **Backend Python** e pesquisador conhecido como **Nielz**, focado em **Segurança Ofensiva (Red Team)** e **Web Application Hacking**. Meu foco técnico une a criação de ferramentas e automações robustas em Python à identificação e exploração prática de vulnerabilidades web (OWASP Top 10).
 
 - 🎯 **Foco de Atuação:** **Red Team & Web Hacking**, Desenvolvimento de Ferramentas Ofensivas em Python (Exploits, Scanners, Payloads), Pentest em APIs/Web e Automação Backend.
-- 🏆 **Prática Ofensiva & CTFs:** Ativo no **TryHackMe** ([tryhackme.com/p/zGordola](https://tryhackme.com/p/zGordola)) com **67+ rooms concluídas**, finalizando a trilha **Web Fundamentals** e em preparação para **PT1 / Junior Penetration Tester**.
+- 🏆 **Prática Ofensiva & CTFs:** Ativo no **TryHackMe** ([tryhackme.com/p/Nielz](https://tryhackme.com/p/Nielz)) com **67+ rooms concluídas**, finalizando a trilha **Web Fundamentals** e em preparação para **PT1 / Junior Penetration Tester**.
 - 🛠️ **Ferramental Desenvolvido:** Automações em Python com `asyncio`/`aiohttp`, gerador de payloads e reverse shells multilinguagem (**py-shellcraft**), validação assíncrona de proxies (**proxy-validator-async**) e framework de agente de IA em sandbox (**kaggle-cyber-agent**).
 - ☁️ **Infraestrutura & Servidores:** Administro VPS e Homelab 24/7 com **Docker**, **Linux**, **Windows Server (RPC)**, **Cloudflare Zero Trust** e **Tailscale**.
 - 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico.
@@ -79,8 +79,8 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolved
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/zGordola">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/zGordola.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/Nielz">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Nielz.png" alt="TryHackMe Badge" />
 </a>
 
 <br/><br/>
