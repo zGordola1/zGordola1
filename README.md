@@ -1,9 +1,9 @@
 <div align="center">
 
 # Olá, eu sou Daniel Lopes 👋
-### 🛡️ Cybersecurity & AppSec | 🐳 DevOps & Homelab | 🐍 Python Developer | 🌐 Network Defense
+### 🛡️ Cybersecurity & AppSec | 🐳 DevOps & Homelab | ☁️ VPS & Windows Server | 🐍 Python Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Docker+%26+Infraestrutura+Self-Hosted;Cloudflare+Zero+Trust+%26+Tailscale;Python+Async+%26+Network+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Docker+%26+Infraestrutura+Self-Hosted;VPS+Cloud+%26+Windows+Server+(RPC);Cloudflare+Zero+Trust+%26+Tailscale;Python+Async+%26+Network+Automation)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,12 +17,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor de software e administrador de infraestrutura com foco em **Segurança em Aplicações Web (AppSec)**, **Defesa de Redes**, **Containerização com Docker** e **Automação em Python**.
+Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor e administrador de infraestrutura com experiência em **Segurança em Aplicações Web (AppSec)**, **Administração de Servidores (Linux & Windows Server)**, **Cloud/VPS**, **Containerização com Docker** e **Automação em Python**.
 
 - 🎓 **Formação Acadêmica:** Graduando em **Cibersegurança** — **SENAC SP**.
-- 🎯 **Foco de Atuação:** Segurança de Aplicações Web (OWASP Top 10), Defesa de Perímetro, Infraestrutura Self-Hosted e Engenharia de Automações Resilientes.
-- 🏠 **Homelab & Servidores de Produção:** Administro servidor Linux 24/7 com **Docker** rodando stacks de segurança de rede (**AdGuard Home DNS Sinkhole**, **ntopng** com Deep Packet Inspection), nuvem privada (**Immich** com Machine Learning & PostgreSQL), mensageria (**Evolution API** com Redis) e monitoramento de SLA (**Uptime Kuma**, **Homepage**, **Portainer**).
-- 🔒 **Conectividade Segura & Zero Trust:** Implantação de **Cloudflare Tunnels (`cloudflared`)** para exposição segura de serviços sem abertura de portas no roteador e malha VPN **Tailscale (WireGuard)**.
+- 🎯 **Foco de Atuação:** Segurança de Aplicações Web (OWASP Top 10), Defesa de Perímetro, Administração de Servidores (Linux/Windows Server), Protocolos de Rede e Engenharia de Automações.
+- ☁️ **VPS & Windows Server:** Experiência prática no provisionamento e hardening de servidores **VPS em nuvem**, administração de **Windows Server** e comunicação de serviços e chamadas remotas com o protocolo **RPC (Remote Procedure Call)**.
+- 🏠 **Homelab & Servidores de Produção:** Administro servidor Linux 24/7 com **Docker** rodando stacks de segurança de rede (**AdGuard Home DNS Sinkhole**, **ntopng** com Deep Packet Inspection), nuvem privada (**Immich** com IA & PostgreSQL), mensageria (**Evolution API** com Redis) e monitoramento de SLA (**Uptime Kuma**, **Homepage**, **Portainer**).
+- 🔒 **Conectividade Segura & Zero Trust:** Implantação de **Cloudflare Tunnels (`cloudflared`)** para exposição de serviços sem abertura de portas públicas e malha VPN **Tailscale (WireGuard)**.
 - 🔬 **Prática e Laboratórios:** Ativo em plataformas práticas de segurança como **TryHackMe** e **Universidade Hacker**.
 - 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico.
 
@@ -42,20 +43,22 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolved
 - **Negação de Serviço na Camada de Aplicação (L7):** Testes e defesas para ataques *Low and Slow* (`slowhttptest`, `hping2`, timeouts agressivos, WAF e rate-limiting).
 - **Sistemas Ciberfísicos (CPS/IoT):** Análise de integridade de sensores e ataques *False Data Injection (FDI)*.
 
-### 🐳 DevOps, Containers & Infraestrutura (Homelab)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### ☁️ Servidores, DevOps & Infraestrutura (VPS / Homelab)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-RPC%20%7C%20RDP-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Arch-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-WireGuard%20VPN-24292E?style=flat-square&logo=tailscale&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Arch-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-DB-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- **Containerização & Microsserviços:** Orquestração com Docker Compose, redes bridge customizadas, persistência com volumes, segurança de socket read-only e manutenção contínua.
+- **VPS & Nuvem:** Provisionamento, configuração, hardening e manutenção de servidores VPS remotos.
+- **Windows Server & RPC:** Administração de ambientes Windows Server, gerenciamento de serviços e comunicação com o protocolo **RPC (Remote Procedure Call / MSRPC)**.
+- **Docker & Microsserviços:** Orquestração com Docker Compose, redes bridge customizadas, persistência com volumes, segurança de socket read-only e manutenção contínua.
 - **Zero Trust & Acesso Remoto:** Implementação de túneis **Cloudflare** (`cloudflared`) e redes mesh **Tailscale** para administração segura sem exposição pública de portas.
-- **Bancos de Dados & Cache:** Administração de instâncias containerizadas de **PostgreSQL**, **MySQL** e **Redis / Valkey**.
+- **Bancos de Dados & Cache:** Administração de instâncias de **PostgreSQL**, **MySQL** e **Redis / Valkey**.
 - **Observabilidade & DNS:** Monitoramento de SLA com **Uptime Kuma**, inspeção de tráfego com **ntopng**, **Portainer** e DNS Sinkhole com **AdGuard Home**.
-- **Administração Linux:** Gerenciamento de servidores Ubuntu LTS, ajuste de kernel (`sysctl`), particionamento LVM, controle de processos e rotinas de backup.
 
 ### 🐍 Linguagens & Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -84,9 +87,9 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolved
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🛡️ Infraestrutura Homelab & Segurança</b></h3>
+      <h3 align="center"><b>🛡️ Infraestrutura, Servidores & Segurança</b></h3>
       <p align="center">
-        Servidor Linux 24/7 com Docker (PostgreSQL, Redis, MySQL, Cloudflare Tunnel, Tailscale, AdGuard Home e Uptime Kuma), scripts de pentest L7 e análises de tráfego de rede.
+        Administração de VPS e Homelab 24/7 (Linux & Windows Server com RPC), Docker (PostgreSQL, Redis, MySQL, Cloudflare Tunnel, Tailscale e AdGuard Home) e scripts de segurança defensiva/ofensiva.
       </p>
       <p align="center">
         <a href="https://github.com/zGordola1"><b>Explorar Projetos →</b></a>
