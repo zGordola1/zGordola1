@@ -3,12 +3,13 @@
 # Olá, eu sou Daniel Lopes 👋
 ### 🛡️ Cybersecurity & AppSec | 🐳 DevOps & Homelab | ☁️ VPS & Windows Server | 🐍 Python Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;Cybersecurity+%26+AppSec;Docker+%26+Infraestrutura+Self-Hosted;VPS+Cloud+%26+Windows+Server+(RPC);Cloudflare+Zero+Trust+%26+Tailscale;Python+Async+%26+Network+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Graduando+em+Ciberseguran%C3%A7a+-+SENAC;TryHackMe+67%2B+Rooms+%7C+Web+Fundamentals;Cisco+Networking+Academy+Certified;Docker+%26+Infraestrutura+Self-Hosted;Python+Async+%26+Network+Automation)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zGordola1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-zGordola-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zGordola)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 </div>
@@ -17,29 +18,54 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor e administrador de infraestrutura com experiência em **Segurança em Aplicações Web (AppSec)**, **Administração de Servidores (Linux & Windows Server)**, **Cloud/VPS**, **Containerização com Docker** e **Automação em Python**.
+Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor e administrador de infraestrutura com foco em **Segurança em Aplicações Web (AppSec)**, **Defesa de Redes (Blue Team / SOC)**, **Administração de Servidores (Linux & Windows Server)** e **Automação com Python**.
 
-- 🎓 **Formação Acadêmica:** Graduando em **Cibersegurança** — **SENAC SP**.
-- 🎯 **Foco de Atuação:** Segurança de Aplicações Web (OWASP Top 10), Defesa de Perímetro, Administração de Servidores (Linux/Windows Server), Protocolos de Rede e Engenharia de Automações.
-- ☁️ **VPS & Windows Server:** Experiência prática no provisionamento e hardening de servidores **VPS em nuvem**, administração de **Windows Server** e comunicação de serviços e chamadas remotas com o protocolo **RPC (Remote Procedure Call)**.
-- 🏠 **Homelab & Servidores de Produção:** Administro servidor Linux 24/7 com **Docker** rodando stacks de segurança de rede (**AdGuard Home DNS Sinkhole**, **ntopng** com Deep Packet Inspection), nuvem privada (**Immich** com IA & PostgreSQL), mensageria (**Evolution API** com Redis) e monitoramento de SLA (**Uptime Kuma**, **Homepage**, **Portainer**).
-- 🔒 **Conectividade Segura & Zero Trust:** Implantação de **Cloudflare Tunnels (`cloudflared`)** para exposição de serviços sem abertura de portas públicas e malha VPN **Tailscale (WireGuard)**.
-- 🔬 **Prática e Laboratórios:** Ativo em plataformas práticas de segurança como **TryHackMe** e **Universidade Hacker**.
+- 🎓 **Formação Acadêmica:** Graduando em **Cibersegurança** — **SENAC SP** (Santo Amaro).
+- 🏆 **Prática Ofensiva & CTFs:** Ativo no **TryHackMe** ([tryhackme.com/p/zGordola](https://tryhackme.com/p/zGordola)) com **67+ rooms concluídas**, finalizando a trilha **Web Fundamentals** e em preparação para **PT1 / Junior Penetration Tester**.
+- 📜 **Certificações Cisco Networking Academy:** Cyber Threat Management, Networking Basics, Python Essentials, Linux Unhatched, Introduction to Cybersecurity, Modern AI e Hardware/SO.
+- 🏠 **Homelab & Servidores de Produção:** Administro servidor Linux 24/7 com **Docker** rodando stacks de segurança (**AdGuard Home DNS Sinkhole**, **ntopng** com DPI), nuvem privada (**Immich** com IA & PostgreSQL), mensageria (**Evolution API** com Redis) e monitoramento (**Uptime Kuma**, **Homepage**, **Portainer**).
+- ☁️ **VPS & Windows Server:** Experiência prática no provisionamento de servidores **VPS em nuvem**, administração de **Windows Server** e comunicação com o protocolo **RPC (Remote Procedure Call)**.
+- 🔒 **Zero Trust & Conectividade:** Implantação de **Cloudflare Tunnels (`cloudflared`)** e redes mesh privadas **Tailscale (WireGuard)**.
 - 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico.
+
+---
+
+## 📜 Certificações & Conquistas
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/zGordola">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/zGordola.png" alt="TryHackMe Badge" />
+</a>
+
+<br/><br/>
+
+| Instituição | Certificado / Badge | Foco de Estudo |
+| :--- | :--- | :--- |
+| **SENAC SP** | **Defesa de Rede - 2603** | Monitoramento, proteção e resposta a alertas de segurança |
+| **Cisco Academy** | **Cyber Threat Management** | Gestão e análise de ameaças cibernéticas |
+| **Cisco Academy** | **Introduction to Cybersecurity** | Fundamentos de segurança e defesa de perímetro |
+| **Cisco Academy** | **Networking Basics & Devices** | Protocolos TCP/IP, roteamento e switching |
+| **Cisco Academy** | **Linux Unhatched & OS Basics** | Comandos, permissões e administração de sistemas |
+| **Cisco Academy** | **Python Essentials 1** | Lógica de programação e automação de scripts |
+| **Cisco Academy** | **Introduction to Modern AI & IoT** | Inteligência Artificial e segurança em dispositivos conectados |
+
+</div>
 
 ---
 
 ## 🛠️ Stack Técnica & Competências
 
 ### 🛡️ Segurança da Informação & AppSec
-![SENAC](https://img.shields.io/badge/SENAC-Cibersegurança-005696?style=flat-square&logo=senac&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-67%2B%20Rooms-red?style=flat-square&logo=tryhackme&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000000?style=flat-square&logo=owasp)
 ![SSRF](https://img.shields.io/badge/Vulnerability-SSRF%20%7C%20IDOR%20%7C%20LFI%2FRFI-red?style=flat-square)
 ![DoS](https://img.shields.io/badge/L7%20DoS-Slowloris%20%7C%20RUDY-orange?style=flat-square)
 ![AppSec](https://img.shields.io/badge/AppSec-API%20Security%20%26%20Access%20Control-blue?style=flat-square)
 ![Cryptography](https://img.shields.io/badge/Criptografia-Hashes%20%7C%20Cifras%20%7C%20TLS-success?style=flat-square)
 
-- **Vulnerabilidades Web:** Identificação e mitigação de SSRF, IDOR, File Inclusion (LFI/RFI), XXE e falhas de autenticação/autorização.
+- **Vulnerabilidades Web:** Identificação e mitigação de SSRF, IDOR, File Inclusion (LFI/RFI), XXE e falhas de controle de acesso.
 - **Negação de Serviço na Camada de Aplicação (L7):** Testes e defesas para ataques *Low and Slow* (`slowhttptest`, `hping2`, timeouts agressivos, WAF e rate-limiting).
 - **Sistemas Ciberfísicos (CPS/IoT):** Análise de integridade de sensores e ataques *False Data Injection (FDI)*.
 
