@@ -22,7 +22,7 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolved
 
 - 🎯 **Foco de Atuação:** **Red Team & Web Hacking**, Desenvolvimento de Ferramentas Ofensivas em Python (Exploits, Scanners, Payloads), Pentest em APIs/Web e Automação Backend.
 - 🏆 **Prática Ofensiva & CTFs:** Ativo no **TryHackMe** ([tryhackme.com/p/zGordola](https://tryhackme.com/p/zGordola)) com **67+ rooms concluídas**, finalizando a trilha **Web Fundamentals** e em preparação para **PT1 / Junior Penetration Tester**.
-- 🛠️ **Ferramental Desenvolvido:** Automações em Python com `asyncio`/`aiohttp`, gerador de payloads e reverse shells multilinguagem (*Canivete de Shells*), validação assíncrona de proxies e agentes de IA em ambientes de computação em nuvem (Kaggle).
+- 🛠️ **Ferramental Desenvolvido:** Automações em Python com `asyncio`/`aiohttp`, gerador de payloads e reverse shells multilinguagem (**py-shellcraft**), validação assíncrona de proxies (**proxy-validator-async**) e framework de agente de IA em sandbox (**kaggle-cyber-agent**).
 - ☁️ **Infraestrutura & Servidores:** Administro VPS e Homelab 24/7 com **Docker**, **Linux**, **Windows Server (RPC)**, **Cloudflare Zero Trust** e **Tailscale**.
 - 🌐 **Idiomas:** Português (Nativo) e Inglês Técnico.
 
@@ -33,41 +33,41 @@ Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolved
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center"><b>🤖 kaggle-cyber-agent</b></h3>
+      <p align="center">
+        Framework para execução de <b>Agentes de IA em Sandbox</b> para análise de malwares/RATs, utilizando GPUs Kaggle (Ollama / DeepHat / WhiteRabbitNeo), Cloudflare Tunnel e Open Interpreter.
+      </p>
+      <p align="center">
+        <a href="https://github.com/zGordola1/kaggle-cyber-agent"><b>Ver Repositório →</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>🐚 py-shellcraft</b></h3>
+      <p align="center">
+        Gerador interativo e modular de payloads para <b>Reverse Shells</b> multilinguagem (Bash, Python, Netcat, PHP, PowerShell, Socat) com auto-detecção de interfaces de rede e integração com clipboard.
+      </p>
+      <p align="center">
+        <a href="https://github.com/zGordola1/py-shellcraft"><b>Ver Repositório →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center"><b>⚡ proxy-validator-async</b></h3>
       <p align="center">
-        Validador assíncrono de proxies HTTP/HTTPS de alta performance construído com <code>Python</code>, <code>asyncio</code> e <code>aiohttp</code>. Possui detecção de vazamento de IP real, persistência incremental e painel de diagnóstico com <code>Rich</code>.
+        Validador assíncrono de proxies HTTP/HTTPS de alta performance construído com <code>Python</code>, <code>asyncio</code> e <code>aiohttp</code>. Possui detecção de vazamento de IP real e painel com <code>Rich</code>.
       </p>
       <p align="center">
         <a href="https://github.com/zGordola1/proxy-validator-async"><b>Ver Repositório →</b></a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><b>🐚 Canivete de Shells & Payloads</b></h3>
+      <h3 align="center"><b>🛡️ Homelab & Infraestrutura 24/7</b></h3>
       <p align="center">
-        Gerador interativo de payloads para <b>Reverse Shells</b> multilinguagem (Bash, Python, Netcat, PHP, PowerShell) e scripts utilitários para pós-exploração e testes de penetração.
+        Servidor Linux 24/7 com Docker (PostgreSQL, Redis, MySQL, Cloudflare Tunnel, Tailscale e AdGuard Home) e scripts de segurança defensiva/ofensiva.
       </p>
       <p align="center">
         <a href="https://github.com/zGordola1"><b>Explorar Projetos →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>🤖 Agentes de IA & Automação (Kaggle)</b></h3>
-      <p align="center">
-        Desenvolvimento e orquestração de agentes autônomos de Inteligência Artificial aproveitando ambientes de computação em nuvem e APIs para tarefas complexas de automação.
-      </p>
-      <p align="center">
-        <a href="https://github.com/zGordola1"><b>Ver Código →</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>🧹 Windows Debloat & Hardening</b></h3>
-      <p align="center">
-        Ferramenta e scripts para otimização de performance, remoção profunda de telemetria, bloatware e ajuste de políticas de privacidade e segurança no Windows.
-      </p>
-      <p align="center">
-        <a href="https://github.com/zGordola1"><b>Ver Scripts →</b></a>
       </p>
     </td>
   </tr>
