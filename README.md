@@ -1,15 +1,15 @@
 <div align="center">
 
-# Olá, eu sou Daniel Lopes 👋
+# Olá, eu sou Daniel Lopes (Nielz) 👋
 ### ⚔️ Red Team & Web Hacking | 🐍 Python Backend Developer | 🐳 DevOps & Cloud Infrastructure
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=620&lines=Red+Team+%26+Web+Application+Hacking;Python+Backend+Developer+%26+Automation;TryHackMe+67%2B+Rooms+%7C+Web+Fundamentals;Dev+de+Ferramentas+Ofensivas+%26+Payloads;Graduando+em+Ciberseguran%C3%A7a+-+SENAC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=620&lines=Nielz+%7C+Red+Team+%26+Web+Hacking;Python+Backend+Developer+%26+Automation;TryHackMe+67%2B+Rooms+%7C+Web+Fundamentals;Dev+de+Ferramentas+Ofensivas+%26+Payloads;Graduando+em+Ciberseguran%C3%A7a+-+SENAC)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zGordola1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-zGordola-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zGordola)
+[![GitHub](https://img.shields.io/badge/GitHub-Nielz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zGordola1)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Nielz-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/zGordola)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 
 </div>
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor **Backend Python** e pesquisador focado em **Segurança Ofensiva (Red Team)** e **Web Application Hacking**. Meu foco técnico une a criação de ferramentas e automações robustas em Python à identificação e exploração prática de vulnerabilidades web (OWASP Top 10).
+Sou estudante de **Ensino Superior em Cibersegurança no SENAC SP**, desenvolvedor **Backend Python** e pesquisador conhecido como **Nielz**, focado em **Segurança Ofensiva (Red Team)** e **Web Application Hacking**. Meu foco técnico une a criação de ferramentas e automações robustas em Python à identificação e exploração prática de vulnerabilidades web (OWASP Top 10).
 
 - 🎯 **Foco de Atuação:** **Red Team & Web Hacking**, Desenvolvimento de Ferramentas Ofensivas em Python (Exploits, Scanners, Payloads), Pentest em APIs/Web e Automação Backend.
 - 🏆 **Prática Ofensiva & CTFs:** Ativo no **TryHackMe** ([tryhackme.com/p/zGordola](https://tryhackme.com/p/zGordola)) com **67+ rooms concluídas**, finalizando a trilha **Web Fundamentals** e em preparação para **PT1 / Junior Penetration Tester**.
